@@ -1,4 +1,4 @@
-# Hello! I'm Jaelyn 👋☕
+## Hello! I'm Jaelyn 👋☕
 
 I am a software engineer and graphic designer, currently focused on system design and 
 backend development. Many of my projects revolve around game development and web development.
